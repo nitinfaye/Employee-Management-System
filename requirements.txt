@@ -131,7 +131,7 @@ python-telegram-bot==13.7
 PyTweening==1.0.3
 pytz==2021.1
 pywhatkit==4.7
-pywin32==300
+#pywin32==300
 PyYAML==5.4.1
 pyzmq==22.0.3
 rasa==0.1.1
